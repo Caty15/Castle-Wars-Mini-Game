@@ -10,6 +10,7 @@ You will be unable to break blocks yourself, so you have to use the custom weapo
 - Bomb - places a lit tnt
 - Rapid Fire - Places a rapidfire arrow despenser
 - There are of course the usual bows, axes & swords (even fire charges)
+
 How do I win?
 If all the opponents are permanently dead 
 
